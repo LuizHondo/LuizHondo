@@ -1,6 +1,6 @@
 ### About Me
 
-Hello! I'm Luiz Hondo, a passionate web developer with a background in Systems Analysis and Development from FIAP. I'm currently expanding my skills in web development through studies at Tripleten. I thrive on crafting intuitive digital solutions using HTML5, CSS, JavaScript, WebAssembly, and React. My diverse experiences—from administrative roles to managing a digital game server—have honed my organization, problem-solving, and leadership skills.
+Hello! I'm Luiz Hondo, a passionate web developer with a background in Systems Analysis and Development from FIAP. I'm currently expanding my skills in web development through studies at Tripleten. I thrive on crafting intuitive digital solutions using HTML5, CSS, JavaScript and React. My diverse experiences—from administrative roles to managing a digital game server—have honed my organization, problem-solving, and leadership skills.
 
 **🔭 I’m currently working on:** Enhancing my portfolio with responsive web applications using React  
 **🌱 I’m currently learning:** Advanced web development techniques and best practices  
